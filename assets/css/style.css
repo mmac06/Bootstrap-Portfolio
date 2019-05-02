@@ -6,13 +6,18 @@ body {
     background: url("/Bootstrap-Portfolio/assets/images/solid_@2X.png");
   }
   
-  * {
+#profile-image {
+    height: 175px;
+    width: auto;
+}
+
+  /* * {
     box-sizing: border-box;
-  }
+  } */
   
   /* general */
   
-  .container {
+  /* .container {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
@@ -48,11 +53,11 @@ body {
   h2,
   h3 {
     font-size: 22px;
-  }
+  } */
   
   /* header */
   
-  #masthead {
+  /* #masthead {
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -61,9 +66,9 @@ body {
     color: #ffffff;
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
-  }
+  } */
   
-  #logo {
+  /* #logo {
     float: left;
     width: 250px;
     height: 90px;
@@ -75,9 +80,9 @@ body {
     text-align: center;
     text-decoration: none;
     background: #4aaaa5;
-  }
+  } */
   
-  nav {
+  /* nav {
     float: right;
     margin-top: 25px;
   }
@@ -93,12 +98,12 @@ body {
   }
   
   nav a:first-child {
-    border-left: 0 none;
+    border-left: 0 none; */
   }
   
   /* footer */
   
-  footer {
+  /* footer {
     padding: 30px 0;
     clear: both;
     font-size: 12px;
@@ -115,11 +120,11 @@ body {
     margin-bottom: 15px;
     line-height: 22px;
     border-bottom: 2px solid #eeeeee;
-  }
+  } */
   
   /* main */
   
-  #main-container {
+  /* #main-container {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
   }
@@ -132,11 +137,11 @@ body {
     margin: 0 0 40px;
     background: #ffffff;
     border: 1px solid #dddddd;
-  }
+  } */
   
   /* portfolio page */
   
-  .work {
+  /* .work {
     position: relative;
     float: left;
     width: 274px;
@@ -174,11 +179,11 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
-  }
+  } */
   
   /* contact page */
   
-  #contact-form ul {
+  /* #contact-form ul {
     margin-bottom: 20px;
   }
   
@@ -205,14 +210,14 @@ body {
   
   textarea {
     height: 200px;
-  }
+  } */
   
-  input[type=submit] {
+  /* input[type=submit] {
     padding: 10px 30px;
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
-  }
+  } */
   
