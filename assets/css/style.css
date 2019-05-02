@@ -4,10 +4,13 @@ body {
     line-height: 34px;
     background: url("/Bootstrap-Portfolio/assets/images/solid_@2X.png");
   }
-
-#masthead-right {
-    color: #777777;
+#masthead {
+    background-color: white;
 }
+  #mastead-name {
+      color: white;
+      background-color: #4aaaa5;
+  }
 
 .body-text {
     color: #777777;
