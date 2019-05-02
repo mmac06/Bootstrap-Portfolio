@@ -26,8 +26,7 @@ body {
     color: #cccccc;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
-    /* height: 60px; */
-    line-height: 60px;
+    line-height: 50px;
   }
 
   /* * {
