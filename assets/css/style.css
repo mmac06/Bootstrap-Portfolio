@@ -6,11 +6,19 @@ body {
   }
 #masthead {
     background-color: white;
+    margin-bottom: 25px;
+    line-height: 50px;
 }
   #mastead-name {
       color: white;
       background-color: #4aaaa5;
+      line-height: 50px;
   }
+
+#main-text {
+    background-color: white;
+    margin-bottom: 250px;
+}
 
 .body-text {
     color: #777777;
