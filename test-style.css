@@ -40,6 +40,7 @@ h3 {
 
 h1 {
   padding-bottom: 20px;
+  /* padding-top: 20px; */
   font-size: 30px;
   line-height: 49px;
   border-bottom: 3px solid #dddddd;
@@ -78,6 +79,13 @@ h3 {
 /* NEW */
 #main-text {
   background-color: white;
+  margin-bottom: 250px;
+}
+
+#sectionhead {
+  height: 90px;
+  line-height: 90px;
+  color: red;
 }
 
 #logo {
