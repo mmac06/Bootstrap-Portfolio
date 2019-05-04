@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("/Bootstrap-Portfolio/assets/images/solid_@2X.png");
 }
 
 * {
@@ -71,7 +71,13 @@ h3 {
 
 /* NEW */
 #navbar-pad {
-  padding-bottom: 30px;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+/* NEW */
+#main-text {
+  background-color: white;
 }
 
 #logo {
