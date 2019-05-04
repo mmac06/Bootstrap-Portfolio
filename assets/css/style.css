@@ -5,11 +5,33 @@ body {
     background: url("/Bootstrap-Portfolio/assets/images/solid_@2X.png");
   }
 
-#profile-image {
+  h1{
+    padding-top: 10px;
+  }
+
+  #masthead {
+    background-color: white;
+    margin-bottom: 25px;
+    line-height: 50px;
+  }
+
+  #masthead-name {
+    color: white;
+    background-color: #4aaaa5;
+    line-height: 50px;
+    /* padding-top: 10px; */
+}
+
+ #profile-image {
     height: 175px;
     width: auto;
     padding-right: 20px;
 } 
+
+#main-text {
+  background-color: white;
+  margin-bottom: 250px;
+}
 
 
 /* OLD CODE */
