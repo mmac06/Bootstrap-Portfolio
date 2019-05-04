@@ -41,6 +41,13 @@ a.nav-link {
   color: #777777;
 }
 
+/* portfolio images */
+#img-portfolio {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 10px;
+}
+
 
 #footer {
   /* font-size: 12px; */
@@ -80,16 +87,11 @@ a.nav-link {
 /* #profile-image {
     height: 175px;
     width: auto;
-    padding-right: 20px;  */ */
+    padding-right: 20px;  */
 /* } */
 
 /* footer */
   
-
-
-
-
-
 
   /* * {
     box-sizing: border-box;
@@ -291,13 +293,12 @@ a.nav-link {
   textarea {
     height: 200px;
   } */
-  
-  /* input[type=submit] {
+
+   /* input[type=submit] {
     padding: 10px 30px;
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
-  } */
-  
+  } 
